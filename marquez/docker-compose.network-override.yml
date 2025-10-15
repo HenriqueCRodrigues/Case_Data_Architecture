@@ -1,0 +1,5 @@
+networks:
+  external_network:
+    external: true
+    name: ifood_spark-net
+services: {}
